@@ -3,8 +3,8 @@ Raspberry pi instant camera with thermal printer
 
 <br>Raspberry pi Zero
 <br>Camera Module
-<br>Thermal Printer
-<br>Led for flash
+<br>Thermal Printer (mine needs a minimum 2a @ 5v to run)
+<br>Led for flash (i got a super bright 3.3v white LED online, but if you only have a 5v one use a NPN transistor inline)
 <br>Button
 
 <br>Pre-requisites: (install cups and gpio utils)
@@ -17,3 +17,5 @@ Raspberry pi instant camera with thermal printer
 <br>add a bright LED to GPIO 5 and GND
 
 <br>run the script!
+
+<img src="https://github.com/jasharrar/Raspberry-pi-instant-camera-thermal-printer/blob/master/camera.jpg" alt="camera" style="width:500px;height:600px;">
