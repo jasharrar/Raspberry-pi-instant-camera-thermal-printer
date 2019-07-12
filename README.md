@@ -21,4 +21,4 @@ Raspberry pi instant camera with thermal printer
 <br>run the script!
 <br> just added a few extra lines to run second flash LED, shutdown button and system LED
 
-<img src="https://github.com/jasharrar/Raspberry-pi-instant-camera-thermal-printer/blob/master/camera.jpg" alt="camera" style="width:500px;height:600px;">
+<img src="https://github.com/jasharrar/Raspberry-pi-instant-camera-thermal-printer/blob/master/camera2.jpg" alt="camera" style="width:500px;height:600px;">
