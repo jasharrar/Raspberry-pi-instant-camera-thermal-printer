@@ -1,6 +1,7 @@
 # Raspberry-pi-instant-camera-thermal-printer
 Raspberry pi instant camera with thermal printer
 
+<img src="https://github.com/jasharrar/Raspberry-pi-instant-camera-thermal-printer/blob/master/20190721_211444_resize_98.jpg" alt="camera" style="width:500px;height:600px;">
 <br>Raspberry pi Zero
 <br>Camera Module
 <br>Thermal Printer (mine needs a minimum 2a @ 5v to run)
